@@ -2,12 +2,12 @@ body {
   margin: 60px auto;width: 70%;background-color:#3399ff;
 }
 
-.header {
+h1{
   font-size: 3em;font-family:'Helvetica', 'Arial', 'Sans-Serif';color: black;
 }
 
 .homeH{
-  font-size: 3em;font-family:'Helvetica', 'Arial', 'Sans-Serif';color: black;text-align:center;
+  text-align:center;
 }
 
 p {
